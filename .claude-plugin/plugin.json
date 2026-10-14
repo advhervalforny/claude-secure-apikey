@@ -1,0 +1,7 @@
+{
+  "name": "secure-apikey",
+  "version": "0.1.0",
+  "description": "Store API keys securely — outside the chat transcript",
+  "author": { "name": "advhervalforny" },
+  "types": "./types/index.d.ts"
+}

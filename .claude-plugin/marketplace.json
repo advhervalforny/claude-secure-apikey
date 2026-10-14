@@ -1,0 +1,6 @@
+{
+  "name": "claude-secure-apikey",
+  "description": "Mods for storing secrets and API keys securely in Claude Code",
+  "owner": { "name": "advhervalforny" },
+  "plugins": [{ "name": "secure-apikey", "source": "./" }]
+}
